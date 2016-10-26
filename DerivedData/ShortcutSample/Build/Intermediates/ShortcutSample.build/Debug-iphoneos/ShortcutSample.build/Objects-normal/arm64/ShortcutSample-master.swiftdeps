@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "f5b282f27eff9d1fa3c88ae6b06ba653"
+build_time: [530781731, 142041000]
+inputs:
+  "/Users/a18968/Develop/iOS-project/ShortcutSample/ShortcutSample/ViewController.swift": [530774622, 0]
+  "/Users/a18968/Develop/iOS-project/ShortcutSample/ShortcutSample/AppDelegate.swift": [530781654, 0]
